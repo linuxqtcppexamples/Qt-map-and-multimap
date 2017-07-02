@@ -45,4 +45,3 @@ int main(int argc, char *argv[])
 //Output:
 //Map: FIRST,first
 //Multi Map: first,FIRST,first
-Download  multimapex source code.
